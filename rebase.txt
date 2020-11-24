@@ -1,3 +1,4 @@
 Rebase start
 Rebase edit 1
 Rebase edit 2
+Rebase edit 3
